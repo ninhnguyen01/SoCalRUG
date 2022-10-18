@@ -1,2 +1,2 @@
 # SoCalRUG
-This repository contains  from an event called "SoCal RUG - Advanced Regression Models with R Applications."
+This repository contains work from an event called "SoCal RUG - Advanced Regression Models with R Applications."
